@@ -17,7 +17,8 @@
       Email: contact@alishaiaz.me
 
       <?php
-      echo "Hello World";
+      $area = 50;
+      echo "Area= $area";
       ?>
 
     </p>
